@@ -1,6 +1,1 @@
-asdasdas
-sadasdas
-asdas
-da
-sd
-asd
+print tst
